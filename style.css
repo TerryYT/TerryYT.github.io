@@ -20,6 +20,10 @@ body {
   background-color: rgba(255,255,255,.5);
 }
 
+.wrapper h1 {
+  font-size: 45px;
+}
+
 .wrapper p {
-  font-size: 20px;
+  font-size: 25px;
 }
