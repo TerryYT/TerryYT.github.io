@@ -14,7 +14,8 @@ body {
 .wrapper {
   position: fixed;
   width: 550px;
-  top: 35vh;
+  top: 25vh;
+  left: 45vw;
   background-color: white;
 }
 
